@@ -25,7 +25,7 @@
     "fkill": "^7.2.1",
     "node-fetch": "^2.6.7",
     "node-fetch-progress": "^1.0.2",
-    "open": "^8.4.0",
+    "open": "^8.4.1",
     "portfinder": "^1.0.32",
     "semver": "^7.3.8",
     "tar": "^6.1.13",
