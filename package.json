@@ -20,7 +20,7 @@
   "dependencies": {
     "app-info-parser": "^1.1.4",
     "cheerio": "^1.0.0-rc.12",
-    "express": "^4.18.2",
+    "express": "^4.20.0",
     "express-fileupload": "^1.4.0",
     "kill-process-by-name": "^1.0.5",
     "node-fetch": "^2.6.7",
